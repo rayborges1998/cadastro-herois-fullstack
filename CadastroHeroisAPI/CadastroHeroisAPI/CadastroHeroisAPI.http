@@ -1,0 +1,6 @@
+@CadastroHeroisAPI_HostAddress = http://localhost:5234
+
+GET {{CadastroHeroisAPI_HostAddress}}/
+Accept: application/json
+
+###

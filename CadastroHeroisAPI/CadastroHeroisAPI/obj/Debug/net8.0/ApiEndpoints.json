@@ -1,0 +1,158 @@
+[
+  {
+    "ContainingType": "CadastroHeroisAPI.Controllers.HeroisController",
+    "Method": "GetHerois",
+    "RelativePath": "api/Herois",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "CadastroHeroisAPI.Models.ServiceResponse\u00601[[System.Collections.Generic.List\u00601[[CadastroHeroisAPI.DTO.GetHeroiDto, CadastroHeroisAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CadastroHeroisAPI.Controllers.HeroisController",
+    "Method": "CreateHeroi",
+    "RelativePath": "api/Herois",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "novoHeroi",
+        "Type": "CadastroHeroisAPI.DTO.AddHeroiDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CadastroHeroisAPI.Models.ServiceResponse\u00601[[HeroisModel, CadastroHeroisAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CadastroHeroisAPI.Controllers.HeroisController",
+    "Method": "UpdateHeroi",
+    "RelativePath": "api/Herois",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "editarHeroi",
+        "Type": "HeroisModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CadastroHeroisAPI.Models.ServiceResponse\u00601[[HeroisModel, CadastroHeroisAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CadastroHeroisAPI.Controllers.HeroisController",
+    "Method": "GetHeroiById",
+    "RelativePath": "api/Herois/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CadastroHeroisAPI.Models.ServiceResponse\u00601[[HeroisModel, CadastroHeroisAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CadastroHeroisAPI.Controllers.HeroisController",
+    "Method": "GetSuperpoderes",
+    "RelativePath": "api/Herois/superpoderes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[CadastroHeroisAPI.Models.SuperpoderesModel, CadastroHeroisAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CadastroHeroisAPI.Controllers.SuperpoderesController",
+    "Method": "GetSuperpoderes",
+    "RelativePath": "api/Superpoderes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[CadastroHeroisAPI.Models.SuperpoderesModel, CadastroHeroisAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CadastroHeroisAPI.Extensions.CadastroHeroisExtension\u002B\u003C\u003Ec",
+    "Method": "\u003CCadastroHerois\u003Eb__0_0",
+    "RelativePath": "CadastroHeroisAPI",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

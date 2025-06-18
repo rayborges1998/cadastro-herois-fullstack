@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|c:\\users\\lenovo\\desktop\\cadastroheroisapi\\cadastroheroisapi\\models\\heroismodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|solutionrelative:models\\heroismodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|c:\\users\\lenovo\\desktop\\cadastroheroisapi\\cadastroheroisapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|c:\\users\\lenovo\\desktop\\cadastroheroisapi\\cadastroheroisapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|c:\\users\\lenovo\\desktop\\cadastroheroisapi\\cadastroheroisapi\\models\\superpoderesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|solutionrelative:models\\superpoderesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|c:\\users\\lenovo\\desktop\\cadastroheroisapi\\cadastroheroisapi\\services\\heroisservice\\heroisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|solutionrelative:services\\heroisservice\\heroisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|c:\\users\\lenovo\\desktop\\cadastroheroisapi\\cadastroheroisapi\\services\\heroisservice\\iheroisinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|solutionrelative:services\\heroisservice\\iheroisinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|c:\\users\\lenovo\\desktop\\cadastroheroisapi\\cadastroheroisapi\\dto\\addheroidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|solutionrelative:dto\\addheroidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|c:\\users\\lenovo\\desktop\\cadastroheroisapi\\cadastroheroisapi\\controllers\\heroiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|solutionrelative:controllers\\heroiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|c:\\users\\lenovo\\desktop\\cadastroheroisapi\\cadastroheroisapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|c:\\users\\lenovo\\desktop\\cadastroheroisapi\\cadastroheroisapi\\models\\heroissuperpoderesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|solutionrelative:models\\heroissuperpoderesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|c:\\users\\lenovo\\desktop\\cadastroheroisapi\\cadastroheroisapi\\extensions\\cadastroheroisextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2206CE1-8808-40A4-9006-E9C90D22D057}|CadastroHeroisAPI.csproj|solutionrelative:extensions\\cadastroheroisextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T04:43:49.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddHeroiDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\DTO\\AddHeroiDto.cs",
+              "RelativeDocumentMoniker": "DTO\\AddHeroiDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\DTO\\AddHeroiDto.cs",
+              "RelativeToolTip": "DTO\\AddHeroiDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T03:25:42.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SuperpoderesModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\Models\\SuperpoderesModel.cs",
+              "RelativeDocumentMoniker": "Models\\SuperpoderesModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\Models\\SuperpoderesModel.cs",
+              "RelativeToolTip": "Models\\SuperpoderesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T03:19:22.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeroisModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\Models\\HeroisModel.cs",
+              "RelativeDocumentMoniker": "Models\\HeroisModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\Models\\HeroisModel.cs",
+              "RelativeToolTip": "Models\\HeroisModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T03:18:16.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HeroisSuperpoderesModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\Models\\HeroisSuperpoderesModel.cs",
+              "RelativeDocumentMoniker": "Models\\HeroisSuperpoderesModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\Models\\HeroisSuperpoderesModel.cs",
+              "RelativeToolTip": "Models\\HeroisSuperpoderesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T02:59:57.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CadastroHeroisExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\Extensions\\CadastroHeroisExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\CadastroHeroisExtension.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\Extensions\\CadastroHeroisExtension.cs",
+              "RelativeToolTip": "Extensions\\CadastroHeroisExtension.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwBoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T02:57:52.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T02:25:29.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IHeroisInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\Services\\HeroisService\\IHeroisInterface.cs",
+              "RelativeDocumentMoniker": "Services\\HeroisService\\IHeroisInterface.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\Services\\HeroisService\\IHeroisInterface.cs",
+              "RelativeToolTip": "Services\\HeroisService\\IHeroisInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T00:05:04.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HeroisService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\Services\\HeroisService\\HeroisService.cs",
+              "RelativeDocumentMoniker": "Services\\HeroisService\\HeroisService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\Services\\HeroisService\\HeroisService.cs",
+              "RelativeToolTip": "Services\\HeroisService\\HeroisService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T23:59:33.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HeroisController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\Controllers\\HeroisController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HeroisController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\Controllers\\HeroisController.cs",
+              "RelativeToolTip": "Controllers\\HeroisController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAIA7wDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:04:20.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CadastroHeroisAPI\\CadastroHeroisAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T20:18:35.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
